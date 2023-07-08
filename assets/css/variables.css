@@ -1,0 +1,16 @@
+/* Variables de colores */
+
+:root {
+    --color-primary: #2f889e;
+    --color-secondary: #a3d7d8;
+    --color-text-primary: #fbf1dc;
+    --color-text-secondary: #b41612;
+}
+
+/* Variables de fuentes */
+
+:root {
+    --font-primary: font-family: 'Montserrat', sans-serif;
+    --font-secondary: font-family: 'Open Sans', sans-serif;
+    --font-titles: font-family: 'Playfair Display';
+}
