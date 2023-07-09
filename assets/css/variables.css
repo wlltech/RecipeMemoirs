@@ -10,7 +10,7 @@
 /* Variables de fuentes */
 
 :root {
-    --font-primary: font-family: 'Montserrat', sans-serif;
-    --font-secondary: font-family: 'Open Sans', sans-serif;
-    --font-titles: font-family: 'Playfair Display';
+    --font-primary: 'Pacifico', cursive;
+    --font-secondary: 'Open Sans', sans-serif;
+    --font-titles: 'Playfair Display';
 }
