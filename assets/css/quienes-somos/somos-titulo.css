@@ -1,0 +1,5 @@
+.somos__titulo {
+    font-family: var(--font-primary);
+    color: var(--color-text-secondary);
+    font-size: 3rem;
+}
