@@ -2,5 +2,11 @@
     display: flex;
     font-size: 2rem;
     margin-left: 5rem;
-    color: var(--color-text-tertiary);
+    color: var(--color-text-primary);
+}
+
+@media screen and (max-width: 768px ){
+    .rodapie__descripcion{
+        margin: 1rem 0;
+    }
 }

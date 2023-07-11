@@ -10,3 +10,17 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 8);
     font-family: var(--font-primary);
 }
+
+@media (max-width: 768px) {
+    .tituloPrincipal {
+        font-size: 2rem;
+        text-shadow: 2px 2px 10px rgba(0, 0, 0, 8);
+    }
+}
+
+@media (max-width: 1024px) {
+    .tituloPrincipal {
+        font-size: 2rem;
+        text-shadow: 2px 2px 10px rgba(0, 0, 0, 8);
+    }  
+}

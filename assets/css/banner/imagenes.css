@@ -5,3 +5,13 @@
 .slider__banner {
     width: 100%;  
 }
+
+@media screen and (max-width: 768px ){
+    .logo {
+        display: none;
+    }
+
+    .slider__banner {
+        width: 800px;
+    }
+}

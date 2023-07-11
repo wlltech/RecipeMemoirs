@@ -23,3 +23,13 @@ a.menu__item-destacado {
     color: aquamarine;
     text-decoration: underline;
 }
+
+@media screen and (max-width: 768px ){
+    .menu {
+        display: flex;
+        flex-direction: column;
+    }
+    .menu__item {
+        margin: 0.5rem 0;
+    } 
+}
