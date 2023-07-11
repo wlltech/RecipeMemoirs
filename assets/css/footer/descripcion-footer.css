@@ -8,5 +8,13 @@
 @media screen and (max-width: 768px ){
     .rodapie__descripcion{
         margin: 1rem 0;
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px){
+    .rodapie__descripcion{
+        margin: 1rem 0;
+        text-align: center;
     }
 }

@@ -18,9 +18,8 @@
     }
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1023px) {
     .tituloPrincipal {
-        font-size: 2rem;
-        text-shadow: 2px 2px 10px rgba(0, 0, 0, 8);
+        font-size: 3rem;
     }  
 }

@@ -33,3 +33,9 @@ a.menu__item-destacado {
         margin: 0.5rem 0;
     } 
 }
+
+@media (min-width: 768px) and (max-width: 1023px){
+    .menu__item {
+        margin: 0.5rem 0;
+    } 
+}
